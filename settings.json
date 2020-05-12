@@ -1,0 +1,6 @@
+{
+  "apikey": "5b8627f5077b2df4c120a84f4f4a2c02ffad7841",
+  "webhook": "https://discordapp.com/api/webhooks/709611383053877259/v-NPJY7S-AN6qvw5VI1CW80MyhwSoX6viQoHE89pQVodAiORGliEB3TC6dLYt72sBrNt",
+  "storefilter": "Itch.io",
+  "_comment": "By default it filters itch.io free games, because they post so much of them, most are small indie and rather unimportant, and the big popular games generally get lost with all the Itch.io games"
+}
